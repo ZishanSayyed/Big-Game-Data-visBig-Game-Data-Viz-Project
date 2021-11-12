@@ -2,7 +2,15 @@
 Big Game Data Viz Project 
 
 Internship Project for iNeuron 
-software used in data viz=google data studio
+software used in data viz | google data studio
+
+Goals:
+To Look at the birthplaces of each player and from where they belong
+
+To analyze the basic overview and give our findings after analyzing the data
+
+Represent the data visually and make a dashboard 
+
 dashboard link:https://datastudio.google.com/reporting/97b46741-50cc-4b32-9031-97615fbb1c4a
 
 See All Details about datasets
